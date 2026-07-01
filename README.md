@@ -49,20 +49,22 @@ My focus is on taking projects from idea → prototype → production:
 ## 📊 GitHub Stats & Activity
 
 <!-- Stats dan Streak Berdampingan (Side-by-Side) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flugel100&amp;show_icons=true&amp;theme=tokyonight" alt="flugel100's GitHub stats" height="195"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flugel100&amp;show_icons=true&amp;theme=tokyonight&amp;v=1" alt="flugel100's GitHub stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flugel100&amp;theme=tokyonight" alt="GitHub Streak" height="195"/>
-</p>
+</div>
 
 <!-- Top Languages di tengah -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flugel100&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flugel100&amp;layout=compact&amp;theme=tokyonight&amp;v=1" alt="Top Languages" />
+</div>
 
 <!-- Animasi GitHub Snake -->
-<p align="center">
+<div align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/flugel100/flugel100/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</div>
 
 ---
 
