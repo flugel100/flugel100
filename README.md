@@ -1,8 +1,17 @@
 # 👋 Hi, I'm flugel100
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=flugel100&fontSize=60&fontColor=ffffff" alt="Header"/>
-</p>
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=flugel100&fontSize=60&fontColor=ffffff)
+
+<!-- Social Badges -->
+<a href="mailto:ali.torihin100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br>
 
 ## 🚀 About Me
 
@@ -37,11 +46,22 @@ My focus is on taking projects from idea → prototype → production:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
+<!-- Stats dan Streak Berdampingan (Side-by-Side) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flugel100&show_icons=true&theme=tokyonight" alt="flugel100's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flugel100&show_icons=true&theme=tokyonight" alt="flugel100's GitHub stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flugel100&theme=tokyonight" alt="GitHub Streak" height="195"/>
+</p>
+
+<!-- Top Languages di tengah -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flugel100&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<!-- Animasi GitHub Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flugel100/flugel100/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -53,14 +73,8 @@ My focus is on taking projects from idea → prototype → production:
 - 🏗️ Improving software architecture
 - 🤖 AI-assisted development
 
----
-
-## 🔗 Contact & Connect
-
-- **GitHub:** [github.com/flugel100](https://github.com/flugel100)
-
 <br>
 
-<p align="center">
+<div align="center">
   <b>⭐ Build • Test • Improve</b>
-</p>
+</div>
