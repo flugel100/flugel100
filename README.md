@@ -18,8 +18,9 @@ because crosswords cannot be translated — intersections demand identical lette
 and word length locks the grid. 139 automated tests. Pre-release.
 [Play it in the browser →](https://app.flugel.my.id/en/demo/jagoan-medis/)
 
-**Hermod** — a terminal and SSH client for Android, built to run AI coding
-assistants from a phone. Rust core, Jetpack Compose interface. In development.
+**Hermod** — a terminal and SSH client for Android, so a server can be driven
+entirely from a phone without reaching for a laptop. Rust core, Jetpack Compose
+interface. In development.
 
 **Kalkulator Nakes** — offline-first clinical calculators for healthcare workers
 in the field, because signal is the first thing to disappear when it matters.
